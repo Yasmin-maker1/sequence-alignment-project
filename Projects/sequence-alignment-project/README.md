@@ -2,7 +2,7 @@
 
 Implementation of Needleman-Wunsch (global) and Smith-Waterman (local) sequence alignment algorithms in Python.
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements two foundational sequence alignment algorithms from scratch:
 - **Needleman-Wunsch (1970)**: Global alignment for comparing entire sequences
@@ -14,7 +14,7 @@ This project implements two foundational sequence alignment algorithms from scra
 **Instructor**: Dr. Yao Xu  
 **Author**: Yasmin Rocio Orduz Landazabal
 
-## 🎯 Project Goals
+## Project Goals
 
 1. Implement both algorithms in Python from scratch
 2. Analyze and verify O(mn) time complexity empirically
@@ -22,7 +22,7 @@ This project implements two foundational sequence alignment algorithms from scra
 4. Compare global vs. local alignment approaches
 5. Visualize dynamic programming matrices and results
 
-## 🗂️ Project Structure
+## Project Structure
 ```
 sequence-alignment-project/
 ├── docs/                   # Documentation and reports
@@ -42,7 +42,7 @@ sequence-alignment-project/
 └── tests/                 # Unit tests
 ```
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -62,7 +62,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 💻 Usage
+## Usage
 
 ### Basic Alignment Example
 ```python
@@ -134,7 +134,7 @@ pytest --cov=src tests/
 
 6. Qin, Y., et al. "Deep learning methods for protein structure prediction."
 
-## 📈 Project Status
+## Project Status
 
 - [x] Project setup and structure
 - [x] Literature review - classic papers
@@ -148,13 +148,13 @@ pytest --cov=src tests/
 - [ ] Real sequence experiments
 - [ ] Final report (Due May 5, 2026)
 
-## 📝 Documentation
+## Documentation
 
 - [Project Proposal](docs/proposal/) - Due: March 8, 2026
 - [Project Report](docs/report/) - Due: May 5, 2026
 - [Presentation](docs/presentation/) - Last 3-4 classes
 
-## 👤 Contact
+## Contact
 
 **Yasmin Rocio Orduz Landazabal**  
 Email: yo00553@georgiasouthern.edu  
@@ -168,7 +168,7 @@ GitHub: [@Yasmin-maker1](https://github.com/Yasmin-maker1)
 
 ---
 
-## 🎯 How to Use This
+## How to Use This
 
 ### **On GitHub (What You're Doing Now):**
 
